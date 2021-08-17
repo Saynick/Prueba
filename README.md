@@ -1,3 +1,3 @@
 # Prueba
 
-Esto es una prueba de login estatico
+Esto es una prueba de login estatico, con estilos CSS. 
